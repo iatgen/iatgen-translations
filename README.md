@@ -10,7 +10,7 @@ Verified:
 * [Turkish](lang/en_tr.csv)
   
 Unverified -- feedback welcome:
-* [Italien](lang/en_it.csv)
+* [Italian](lang/en_it.csv)
 * [German](lang/en_de.csv)
 
 Please log an issue in github or submit pull request for new languages or corrections to existing.
