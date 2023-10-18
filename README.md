@@ -8,9 +8,7 @@ Verified:
 * [Portuguese (Portugal)](lang/en_pt-pt.csv)
 * [Japanese](lang/en_jp.csv)
 * [Turkish](lang/en_tr.csv)
-  
-Unverified -- feedback welcome:
 * [Italian](lang/en_it.csv)
 * [German](lang/en_de.csv)
-
+  
 Please log an issue in github or submit pull request for new languages or corrections to existing.
